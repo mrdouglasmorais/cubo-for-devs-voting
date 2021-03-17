@@ -1,0 +1,35 @@
+{
+  "count": {
+    "total": 7
+  },
+  "options": [
+    {
+      "id": 1,
+      "title": "React JS",
+      "description": "Uma biblioteca JavaScript para criar interfaces de usuários, escalável e com infinitos recursos para sua aplicação.",
+      "profile": "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+      "count": 3
+    },
+    {
+      "id": 2,
+      "title": "NextJS",
+      "description": "Next.js oferece a melhor experiência de desenvolvedor com todos os recursos de que você precisa para a produção.",
+      "profile": "https://cdn.auth0.com/blog/illustrations/nextjs.png",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "title": "Vue",
+      "description": "Um ecossistema incrementalmente adotável que se expande entre uma biblioteca e uma estrutura completa.",
+      "profile": "https://img2.gratispng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "title": "Angular",
+      "description": "Alcance a velocidade máxima possível na plataforma da Web hoje e vá além, por meio de Web Workers.",
+      "profile": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png",
+      "count": 2
+    }
+  ]
+}
